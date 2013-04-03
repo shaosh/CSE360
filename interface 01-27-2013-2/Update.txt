@@ -1,0 +1,9 @@
+1-27-2013
+1. Finished the main body of interfaces for Welcome, DocSignIn, PatientSignIn, ChangePassword. 
+2. Driver contains main() used to start the whole program.
+3. Combined the previous XXFrame.java and XXPanel.java into XX.java.
+4. DocSignIn and PatientSignIn are basically the same. I was just not sure how to name a button in the Welcome interface if we put doctor and patient in the same button. So I just made two buttons.
+5. Things needed to complete: 
+(1) In Welcome: the Admin Button.
+(2) In SignIn: check if password of certain ID is correct.
+(3) In ChangePassword: confirm the new password is correct (same with what in the Confirm textfield, and different with the old one); submit stores the new password, check if current user is a doctor or a patient. If it is a doctor, move to SearchPatient; else move to history. 
