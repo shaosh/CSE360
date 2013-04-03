@@ -1,0 +1,1 @@
+This repository is used to store codes of Doctor's Note developed by Ravenware. It is a class project for CSE360 in ASU. The members of our team are: Justin Rederick, Shihuan Shao, Keith Taylor, Daniel Toledo and Robin Yau.
